@@ -39,8 +39,7 @@ INDHHIN2 | Categorical | Recording the participant's annual household income thr
 
 INDFMPIR | Numerical | Recording the ratio of the participant's family income to poverty.
 
-DMDMARTL | Categorical | Recording the participant's marital status.
-
 DMDEDUC3 | Categorical | Recording the participant's (aged 6-19) highest level of education.
+
 DMDEDUC2 | Categorical | Recording the participant's (aged 20+) highest level of education.
 
