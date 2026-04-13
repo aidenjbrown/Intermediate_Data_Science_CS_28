@@ -2,7 +2,7 @@ Our data comes from the CDC's 2017-2018 NHANES Questionaire. You can find the li
 
 https://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx?Component=Questionnaire&Cycle=2017-2018
 
-https://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx?Component=Demographics&Cycle=2017-2018&utm_source=chatgpt.com
+https://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx?Component=Demographics&Cycle=2017-2018
 
 
 Codebook:
