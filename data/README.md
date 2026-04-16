@@ -9,23 +9,23 @@ Codebook:
 
 SEQN | Categorical | The sequence number of the respondent: this is how we merge the data and keep track of individual respondents.
 
-DPQ010 | Categorical | A scale of how often over the last two weeks the participant has been bothered by having little interest or pleasure in doing things.
+DPQ010 | Categorical (Ordinal) | A scale of how often over the last two weeks the participant has been bothered by having little interest or pleasure in doing things.
 
-DPQ020| Categorical | A scale of how often over the last two weeks the participant has been bothered by feeling down, depressed, or hopeless.
+DPQ020| Categorical (Ordinal) | A scale of how often over the last two weeks the participant has been bothered by feeling down, depressed, or hopeless.
 
-DPQ030| Categorical | A scale of how often over the last two weeks the participant has been bothered by feeling down, depressed, or hopeless.
+DPQ030| Categorical (Ordinal) | A scale of how often over the last two weeks the participant has been bothered by trouble sleeping or sleeping too much.
 
-DPQ040 | Categorical | A scale of how often over the last two weeks the participant has been bothered by feeling tired or having little energy.
+DPQ040 | Categorical (Ordinal) | A scale of how often over the last two weeks the participant has been bothered by feeling tired or having little energy.
 
-DPQ050 | Categorical | A scale of how often over the last two weeks the participant has been bothered by poor appetite or overeating?
+DPQ050 | Categorical (Ordinal) | A scale of how often over the last two weeks the participant has been bothered by poor appetite or overeating.
 
-DPQ060 | Categorical | A scale of how often over the last two weeks the participant has been bothered by feeling bad about themself - or that they are a failure or have let themself or their family down?
+DPQ060 | Categorical (Ordinal) | A scale of how often over the last two weeks the participant has been bothered by feeling bad about themself - or that they are a failure or have let themself or their family down.
 
-DPQ070 | Categorical | A scale of how often over the last two weeks the participant has been bothered by trouble concentrating on things, such as reading the newspaper or watching TV?
+DPQ070 | Categorical (Ordinal) | A scale of how often over the last two weeks the participant has been bothered by trouble concentrating on things, such as reading the newspaper or watching TV.
 
-DPQ080 | Categorical | A scale of how often over the last two weeks the participant has been bothered by moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?
+DPQ080 | Categorical (Ordinal) | A scale of how often over the last two weeks the participant has been bothered by moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual.
 
-DPQ090 | Categorical | A scale of how often over the last two weeks the participant has been bothered by thoughts that they would be better off dead or of hurting themself in some way?
+DPQ090 | Categorical (Ordinal) | A scale of how often over the last two weeks the participant has been bothered by thoughts that they would be better off dead or of hurting themself in some way.
 
 SLD012 | Numerical | A measure of how many hours the participant usually sleeps on weekdays or workdays.
 
