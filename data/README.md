@@ -33,7 +33,7 @@ SLD013 | Numerical | A measure of how many hours the participant usually sleeps 
 
 RIAGENDR | Categorical | Recording if the participant is male or female (note there is no option for non-binary or trans-gender options.)
 
-RIDRETH3 | Categorical | Recording the participant's race (they cannot self-report they need to identify into one of 6 categories or indicate other race.)
+RIDRETH3 | Categorical | Recording the participant's race (they cannot self-report, they need to identify into one of 6 categories or indicate other race.)
 
 INDHHIN2 | Categorical | Recording the participant's annual household income through a variety of income ranges.
 
@@ -42,4 +42,16 @@ INDFMPIR | Numerical | Recording the ratio of the participant's family income to
 DMDEDUC3 | Categorical | Recording the participant's (aged 6-19) highest level of education.
 
 DMDEDUC2 | Categorical | Recording the participant's (aged 20+) highest level of education.
+
+OCQ180 | Numerical | Recording how many hours the participant worked in the last week at jobs/businesses.
+
+race_label | Categorical | A non-encoded version of RIDRETH3
+
+education_label | Categorical | A non-encoded version of DMDEDUC3
+
+income_label | Categorical | A non-encoded version of INDHHIN2
+
+
+
+
 
