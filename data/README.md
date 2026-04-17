@@ -53,6 +53,18 @@ education_label | Categorical | A non-encoded version of DMDEDUC3
 
 income_label | Categorical | A non-encoded version of INDHHIN2
 
+SLD012 | Numerical | Sleep hours - weekdays or workdays
+
+SLD013 | Numerical | Sleep hours - weekends
+
+WHQ030 | Numerical | How do you consider your weight
+
+WHD010 | Numerical | Current self-reported height (inches)
+
+WHD020 | Numerical | Current self-reported weight (pounds)
+
+
+
 
 
 
