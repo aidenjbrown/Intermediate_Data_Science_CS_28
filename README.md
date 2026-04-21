@@ -1,2 +1,2 @@
-# Intermediate_Data_Science_CS_28
+# Depression Prediction among United States Residents 2017 - 2018
 Aiden Brown and Tony Nguyen's Spring 2026 Data Science Project
