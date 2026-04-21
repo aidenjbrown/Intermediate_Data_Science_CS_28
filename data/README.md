@@ -45,7 +45,7 @@ DMDEDUC2 | Categorical | Recording the participant's (aged 20+) highest level of
 
 OCQ180 | Numerical | Recording how many hours the participant worked in the last week at jobs/businesses.
 
-depression_score | Numerical | Recording a sum of the participant's responses of DPQ010-DPQ090 so long as the response is between 0-3 to mimic the aggretated score the CDC uses to screen for depression across populations.
+depression_score | Numerical | Recording a sum of the participant's responses of DPQ010-DPQ090, so long as the response is between 0-3 to mimic the aggregated score the CDC uses to screen for depression across populations.
 
 race_label | Categorical | A non-encoded version of RIDRETH3
 
@@ -57,7 +57,7 @@ SLD012 | Numerical | Sleep hours - weekdays or workdays
 
 SLD013 | Numerical | Sleep hours - weekends
 
-WHQ030 | Numerical | How do you consider your weight
+WHQ030 | Categorical | How do you consider your weight
 
 WHD010 | Numerical | Current self-reported height (inches)
 
