@@ -1,4 +1,4 @@
-Our data comes from the CDC's 2017-2018 NHANES Questionaire. You can find the links to the data and their codebooks here:
+Our data comes from the CDC's 2017-2018 NHANES Questionnaire. You can find the links to the data and their codebooks here:
 
 https://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx?Component=Questionnaire&Cycle=2017-2018
 
@@ -52,10 +52,6 @@ race_label | Categorical | A non-encoded version of RIDRETH3
 education_label | Categorical | A non-encoded version of DMDEDUC3
 
 income_label | Categorical | A non-encoded version of INDHHIN2
-
-SLD012 | Numerical | Sleep hours - weekdays or workdays
-
-SLD013 | Numerical | Sleep hours - weekends
 
 WHQ030 | Categorical | How do you consider your weight
 
